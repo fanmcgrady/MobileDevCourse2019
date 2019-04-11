@@ -42,3 +42,17 @@
 > 课程相关代码资源查看Github项目[MobileDevCourse](https://github.com/fanmcgrady/MobileDevCourse2019)
 >
 > 地址：https://github.com/fanmcgrady/MobileDevCourse2019
+
+## 课程资源
+
+本Github项目展示了《微信移动终端开发》课程上涉及到的相关代码和课程资源
+
+## Lesson1
+
+1. 介绍课程整体内容，重点微信移动端开发，课程的要求.
+1. 微信公众号，微信小程序入门.
+1. 介绍HTML，JavaScript，CSS基础.
+1. 使用web-view标签简单模拟微信小程序HelloWorld程序.
+1. 介绍微信小程序HelloWorld.
+
+> lesson1文件夹中，包含了一个小程序官方Hello World程序，课堂上演示的模拟的一个纯HTML的Hello World程序
