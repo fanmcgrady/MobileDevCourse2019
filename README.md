@@ -56,3 +56,12 @@
 1. 介绍微信小程序HelloWorld.
 
 > lesson1文件夹中，包含了一个小程序官方Hello World程序，课堂上演示的模拟的一个纯HTML的Hello World程序
+
+## Lesson2
+
+1. 回顾上节课小程序前端的内容，前端weui
+1. 介绍服务器后端开发的基础知识，以Java Servlet为例.
+    * 课程中涉及到的前端网站：http://www.bootcss.com/
+1. 介绍上节课课后意见反馈页面的编写流程，以小程序为例再次演示同样的功能基于小程序的实现.
+
+> lesson2文件夹中，包含了一个基于Weui的“意见反馈页面”的小程序端实现，以及课堂上演示的基于Servlet的一个Java后端Hello World程序（直接使用intellj idea打开这个项目，项目是以工程的形式上传）
