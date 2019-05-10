@@ -56,8 +56,6 @@
             <h3 class="form-signin-heading">意见</h3>
             <textarea rows="3" name="comment" class="input-block-level"></textarea>
             <input class="btn btn-large btn-primary" type="button" onclick="sendFeedback()" value="提交意见">
-            <input class="btn btn-large btn-primary" type="button" onclick="showInputValue()" value="显示值">
-            <input class="btn btn-large btn-primary" type="button" onclick="changeValue()" value="改变值">
         </div>
     </form>
 </div>
@@ -65,17 +63,9 @@
 <script>
 	function sendFeedback() {
 		// get
-		location.href = "http://localhost:8080/hello?studentId=12323&comment=saf";
+		// location.href = "http://localhost:8080/hello?studentId=1&comment=hello";
 		// post
-		// document.getElementById("commentForm").submit();
-	}
-	
-	function showInputValue() {
-		alert(document.getElementById("studentId").value);
-	}
-	
-	function changeValue() {
-		document.getElementById("studentId").value = "change";
+		document.getElementById("commentForm").submit();
 	}
 </script>
 </body>
